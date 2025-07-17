@@ -4,14 +4,6 @@
 
 Me chamo Eduardo Dewes, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCS. Sou apaixonado por tecnologia.
 
-<p align="left">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
