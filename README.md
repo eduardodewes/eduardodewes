@@ -1,6 +1,6 @@
 # Eduardo
 
-**`Desenvolvedora FullStack`**
+**`Analista de Dados`**
 
 Me chamo Eduardo Dewes, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCS. Sou apaixonado por tecnologia.
 
@@ -47,7 +47,8 @@ Me chamo Eduardo Dewes, tenho 23 anos e sou natural do Rio Grande do Sul. Atualm
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="file:///C:/Users/eduardo.dewes/AppData/Local/Temp/596ff1b5-0465-49a2-898a-88ab41378e1b_devicon-master.zip.devicon-master.zip/devicon-master/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
 />
 <img 
     align="left" 
